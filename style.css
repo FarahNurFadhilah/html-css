@@ -7,6 +7,15 @@
     margin: auto;
 }
 
+li:active{
+    background-color: greenyellow;
+}
+
+p::first-letter {
+    color: #ff0000;
+    font-size: xx-large;
+  }
+
 .display{
     display: inline-block;
     padding: 3%;
@@ -15,6 +24,7 @@
 .warna{
     background-color: hotpink;
     color: ghostwhite;
+    cursor: pointer;
 }
 
 img{
