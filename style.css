@@ -7,8 +7,12 @@
     margin: auto;
 }
 
-li:active{
+h2:hover{
     background-color: greenyellow;
+}
+
+.card:target{
+    background-color: yellow;
 }
 
 p::first-letter {
