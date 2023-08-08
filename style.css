@@ -7,6 +7,11 @@
     margin: auto;
 }
 
+.warna{
+    background-color: hotpink;
+    color: ghostwhite;
+}
+
 img{
     width: 100px;
 }
